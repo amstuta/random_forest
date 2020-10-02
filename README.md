@@ -1,3 +1,4 @@
+## [![Run on Repl.it](https://repl.it/badge/github/amstuta/random-forest)](https://repl.it/github/amstuta/random-forest)
 ## Implementation of Decision Tree and Random Forest classifiers in Python and Scala languages
 
 ### Python
